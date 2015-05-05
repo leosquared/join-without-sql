@@ -1,0 +1,226 @@
+VANID,LastName,FirstName,MiddleName,Suffix,mAddress,mCity,mState,mZip5,mZip4,HomePhone 
+4439,Klein,Nancy,J,,92 Shepherd Dr ,South Kingstown,RI,02879,5730,4012958524
+4710,Hall,Pendleton,,,190 Greenwood Dr ,South Kingstown,RI,02879,1516,4017898636
+5196,Labrie,Jessica,J,,78 Arnold St ,Providence,RI,02906,1059,4012709076
+14821,Detora,Vincent,,,3 Allendale Ave ,Johnston,RI,02919,2301,4012320856
+23033,Richman,Maxine,R,,9 Strawberry Dr ,Barrington,RI,02806,4915,4012453362
+27250,Bilderback,Willis,P,,260 Sowams Rd ,Barrington,RI,02806,3923,4012890534
+27251,Bilderback,Marjorie,,,260 Sowams Rd ,Barrington,RI,02806,3923,4012890534
+27793,Kaplan,Daniel,S,,5 Karen Dr ,Barrington,RI,02806,4325,4012458382
+28668,Montstream,Sydney,A,,45 Annawamscutt Rd ,Barrington,RI,02806,1951,4012458076
+29526,Wyatt,Sandra,S,,28 Byway Rd ,Barrington,RI,02806,1312,4012460747
+29691,Venuti,Stephen,,,17 Stanhope Dr ,Barrington,RI,02806,1617,4012460911
+29693,Wilkin,Dianne,L,,17 Stanhope Dr ,Barrington,RI,02806,1617,4012461660
+31060,Berg,Dianne,D,,3 Circuit Dr ,Warren,RI,02885,1514,4012470034
+32202,Boylan,Jennifer,S,,140 Lincoln Ave ,Barrington,RI,02806,2341,4012453635
+32791,Cardoza,Toni,Moroz,,2 Church St Apt 4 ,Warren,RI,02885,3136,4012472341
+35517,Casalegno,Michelle,F,,15 Acacia Rd ,Bristol,RI,02809,1304,4012548835
+36819,Rotblat-Walker,Susan,,,24 Beach Rd ,Bristol,RI,02809,1505,4012538969
+41852,Bethune,Coy,C,II,12 2nd St ,Bristol,RI,02809,3218,4012542350
+42766,Edwards,Beverley,F,,34 Main St # C ,Little Compton,RI,02837,2029,4015920059
+42791,Jones,Adrienne,A,,130 Westwood Ave ,Cranston,RI,02905,1328,4017815782
+44201,Crowley,Joan,F,,18 Parkway Ave ,Providence,RI,02908,3515,4012723497
+46580,Birnbaum,Carolyn,R,,24 Summit Ave ,Providence,RI,02906,2531,4016320784
+47148,Klein,Wendy,L,,28 Dexterdale Rd ,Providence,RI,02906,2708,4015214418
+49612,Clark,Laurie,M,,285 Elmgrove Ave ,Providence,RI,02906,4226,4012736826
+53805,Cox,Robert,A,,93 Beacon Ave # 1A ,Providence,RI,02903,4525,4012748384
+55570,Ranaldi,Gary,J,,659 Hatchery Rd ,North Kingstown,RI,02852,4655,4012942290
+55951,Hall,Mary,B,,265 Mail Rd ,Exeter,RI,02822,3510,4012944459
+56281,Ladas,Sara,D,,391 Chestnut Hill Rd ,South Kingstown,RI,02879,7648,4017894693
+56825,Bromberg,Efrem,,,35 Liberty Church Rd ,Exeter,RI,02822,2922,
+56826,Graham,Nancy,,,35 Liberty Church Rd ,Exeter,RI,02822,2922,4012957794
+58216,Nowicki,Barbara,L,,281 Sheffield Hill Rd ,Exeter,RI,02822,2914,4016673693
+58234,Briggs,Rebecca,Joyce,,16 Pond St ,South Kingstown,RI,02879,4009,4017881041
+61317,Clyne,Ailis,,,40 Bellewood Ct ,North Kingstown,RI,02852,5308,4012959181
+62848,Muhitch,Barbara,A,,55 Beechwood Hill Trl ,Exeter,RI,02822,5233,4012942421
+64259,Hutcheson,Beatrice,Pollock,,75 Bay View Dr ,Jamestown,RI,02835,1506,4014230084
+68406,Bell,Jonathan,F,,15 Cady St ,Providence,RI,02903,1212,4012731080
+68950,Deboer,Kathryn,R,,107 Halsey St ,Providence,RI,02906,1535,4013314324
+78541,Brotman,Carol,Scotto,,296 Wickford Point Rd ,North Kingstown,RI,02852,4045,4013342968
+84041,Vazquez,Heidi,Judge,,24 Cathedral Ave ,Providence,RI,02908,1929,
+85432,Bass,Diana,L,,25 Vernon St # 1 ,Providence,RI,02903,3027,
+85483,Cummings,Mary,L,,185 Taber Ave ,Providence,RI,02906,3338,4012702355
+86617,Baran,Tracy,C,,24 Wardlaw Ct ,Providence,RI,02908,2227,4013518270
+89896,Zelazny,William,P,,26 Packard Ave ,North Providence,RI,02911,2708,4013533743
+95827,Chambers,Kristen,P,,319 Church St ,Wood River Junction,RI,02894,1126,4013640768
+96661,Bejan,Judith,A,,2 Kickapoo Run ,Charlestown,RI,02813,3410,4013646162
+96947,Wojcik,Marlene,A,,510 Carolina Back Rd ,Charlestown,RI,02813,3809,4013640594
+97801,Schopac,F,Marie,,20 Indian Trl ,Charlestown,RI,02813,3131,4013649846
+98902,Peck,Alan,E,,220 Westerly Bradford Rd ,Westerly,RI,02891,2662,4013772139
+101298,Downes-Fortune,Hilary,,,19 Biscuit Hill Rd ,Foster,RI,02825,1202,4013972371
+107181,Fox,Virginia,Hoitsma,,29 Orchard Ave ,Providence,RI,02906,5417,4014538281
+107183,Fox,David,,,29 Orchard Ave ,Providence,RI,02906,5417,4014538281
+107714,Salooja,Anand,P,,176 6th St ,Providence,RI,02906,3729,4014215970
+108302,Metts,Grant,E,,325 River Ave ,Providence,RI,02908,4248,
+108605,Leach,David,H,,100 Swift St ,Providence,RI,02904,1437,4014219523
+115876,Olson,Susan,P,,29 Linden St ,Riverside,RI,02915,4448,4014370641
+117040,Connors,Edward,H,,39 Dyer Ave ,Riverside,RI,02915,4306,
+117490,Ouellette,David,Francis,,84 Cushman Ave ,East Providence,RI,02914,3061,
+117491,Ouellette,Judith,E,,84 Cushman Ave ,East Providence,RI,02914,3061,4014330536
+121163,Perry,Ashley,E,,3 Court House Ln ,East Greenwich,RI,02818,3894,
+123831,Eldridge,Christine,Anne,,27 Putnam St ,East Providence,RI,02914,5413,
+125698,Berardi,Martha,M,,42 Brook St ,Barrington,RI,02806,1157,4014371760
+130060,Waters,Jeanne,M,,157 Pleasant St ,Rumford,RI,02916,1313,4014386612
+132628,Bartholomew,Cheryl,C,,357 Rochambeau Ave ,Providence,RI,02906,3515,4016320831
+132629,Bartholomew,Neil,G,,357 Rochambeau Ave ,Providence,RI,02906,3515,4016320831
+133543,Kirby,Aronda,R,,282 Wayland Ave ,Providence,RI,02906,4530,4013831133
+137318,Robison,Richard,,,133 Wentworth Ave ,Cranston,RI,02905,2703,4014615182
+137319,Robison,Martha,J,,133 Wentworth Ave ,Cranston,RI,02905,2703,4014615182
+141034,Wilcox,Catherine,E,,265 Namquid Dr ,Warwick,RI,02888,5627,4014635841
+144678,Abatecola,Rachel,L,,85 Holland St ,Cranston,RI,02920,2350,4019467399
+146493,Key,Sharon,A,,2 Vanderbilt Dr ,Narragansett,RI,02882,4241,
+147219,Rondeau,Maria,L,,262 Norwood Ave ,Cranston,RI,02905,2712,4014674392
+149538,Greene,Edward,A,,14 Lenox Rd ,Cranston,RI,02920,6020,4019425263
+152702,Kelly,Colleen,R,,338 Rochambeau Ave ,Providence,RI,02906,3516,4013316086
+152752,Cashen,Jeffrey,A,,242 Wickenden St Apt 2R ,Providence,RI,02903,4366,
+167138,Hval,Patricia,B,,124 Granite St ,Westerly,RI,02891,2435,4015969341
+168507,Small,Eileen,M,,9 Hunt Dr ,Barrington,RI,02806,1530,4016259728
+169707,Sterrett,William,A,,243 Stone Church Rd ,Tiverton,RI,02878,2819,4016255940
+169867,Stockbridge,Marguerite,M,,301 Bulgarmarsh Rd Lot 51 ,Tiverton,RI,02878,3862,
+172734,Segel,Richard,M,,97 Myrtle Way ,Tiverton,RI,02878,3307,4016249313
+173022,Nardone,Jennifer,Marissa,,3 Paul Ter ,Tiverton,RI,02878,2025,4016243273
+173892,Szelag,Stanislaw,,,16 Windwood Dr ,Tiverton,RI,02878,2447,4016255398
+176391,Sinwell,Elizabeth,H,,28 Mount Hygeia Rd ,Foster,RI,02825,1435,4016472051
+178028,Gurzenda,Joseph,M,,30 Dale Ave ,Cranston,RI,02910,5509,4015804549
+186878,Boswell,Amanda,J,,502 Middle Rd Apt 2 ,Portsmouth,RI,02871,2205,4016830038
+198124,Griffith,Johana,D,,101 Glenwood Ave ,Pawtucket,RI,02860,6117,4017233614
+198741,Trudel,Karen,June,,36 Woodland Ct ,Lincoln,RI,02865,2811,4017271981
+202093,Magendantz,Henry,G,,11 Willington Rd ,Pawtucket,RI,02861,2237,4017240179
+202832,Davis,Lisa,,,5 Veritas Way ,Barrington,RI,02806,2751,4012890054
+219324,Rosenbaum,Claire,H,,27 Blackstone St ,Cumberland,RI,02864,7027,4017281646
+223658,Silvis,Barbara,J,,250 Grand View Dr ,Warwick,RI,02886,8838,4019212294
+233696,Lyons,James,W,,249 Groveland Ave ,Warwick,RI,02886,5139,4017376713
+246982,Gillooly,Cynthia,M,,221 Coburn St ,Warwick,RI,02889,9443,4017392398
+247855,Ames,David,A,,130 Slater Ave ,Providence,RI,02906,5624,4017510175
+267431,Wilker,Holly,S,,135 Mayfair Rd ,Warwick,RI,02888,3715,4014327503
+272269,Duphily,Diane,M,,50 Shirley Blvd ,Cranston,RI,02910,3326,4012707621
+272850,Soukup,Nancy,H,,17 N Country Club Dr ,Warwick,RI,02888,4462,4017819210
+273799,Machado,Chasity,,,1340 Broad Rock Rd ,South Kingstown,RI,02879,1852,4017838069
+274780,Purinton,Priscilla,H,,129 Queens River Dr ,West Kingston,RI,02892,1726,4017828145
+275571,Bell,Sarah,P,,37 Pike St ,South Kingstown,RI,02879,2908,
+277135,Kotula,John,,,16 Amos St ,South Kingstown,RI,02879,2414,4017830610
+277163,Stein,Arthur,B,,680 Curtis Corner Rd ,South Kingstown,RI,02879,1428,4017830662
+277722,Ford,Leslie,A,,730 Shannock Rd ,South Kingstown,RI,02879,4756,
+278980,Surprenant,Carol,F,,64 Caswell St ,Narragansett,RI,02882,3605,4017833247
+279077,Trimmer,Kathleen,Ann,,239 Briarwood Dr ,South Kingstown,RI,02879,2821,
+286472,Cashman,Anne,C,,61 River St ,South Kingstown,RI,02879,3214,4017891369
+286592,Stein,Karen,F,,201 White Horn Dr ,Kingston,RI,02881,1830,4018745547
+289872,Nightingale,Beatrijs,Mj,,52 Nichols Rd ,Kingston,RI,02881,1804,4017897649
+290183,Friday,Joanne,Davis,,725 Matunuck School House Rd ,South Kingstown,RI,02879,5121,4017898158
+290866,Tessman,Carol,E,,289 Balsam Rd ,South Kingstown,RI,02879,4924,4017839763
+299086,Wetherbee,John,R,,26 Yates Ave ,Coventry,RI,02816,7384,4015697048
+299087,Wetherbee,Alissa,M,,26 Yates Ave ,Coventry,RI,02816,7384,4015697048
+314372,Butzier,Judith,J,,30 Carr St ,Coventry,RI,02816,6135,4018285265
+320187,Royles,Noriana,L,,100 Rhode Island Ave ,Newport,RI,02840,3346,
+324786,Armenia,Joanne,E,,22 Damon St ,Newport,RI,02840,4308,4018467583
+325833,Wallace,Robert,H,,104 Redwood Rd ,Portsmouth,RI,02871,1014,4018470241
+325849,Ryan,Kathryn,E,,8 Bridgeport Rd ,Tiverton,RI,02878,3906,
+328260,Krosney,Beatrice,C,,14 Continental Dr ,Middletown,RI,02842,7204,4016190239
+329005,Milham,Russell,O,,108 Champlin Pl N ,Newport,RI,02840,2839,4018477637
+331254,Heroux,Nancy,T,,51 Bayridge Dr ,Middletown,RI,02842,7431,4018492156
+331255,Heroux,Ronald,G,,51 Bayridge Dr ,Middletown,RI,02842,7431,4018492156
+331684,Hirsch,Morris,G,,42 Renfrew Ave ,Middletown,RI,02842,5827,4018493466
+334337,Keogh,Richard,P,,36 Rome Ave ,Providence,RI,02908,1226,4018613161
+334338,Keogh,Paula,L,,36 Rome Ave ,Providence,RI,02908,1226,4018613161
+334753,Brune,Patricia,T,,7403 Scituate Vista Dr ,Cranston,RI,02921,1735,
+334842,Kagan,Marilyn,D,,311 Rochambeau Ave ,Providence,RI,02906,3507,4014539643
+335171,Norton,Mary,E,,67 Mount Hope Ave ,Providence,RI,02906,1647,
+336879,Forsberg,Linda,R,,16 Pond Ave # 2 ,Newport,RI,02840,2106,
+337513,Flynn,William,F,II,16 Dawes Ave ,North Kingstown,RI,02852,1106,4018841865
+339406,Hennedy,Marie,C,,56 Marion St ,East Greenwich,RI,02818,3332,4018843976
+341874,Reardon,Elizabeth,M,,56 Harwood Rd ,East Greenwich,RI,02818,4023,4018846931
+343258,Nolan,Robert,W,,2 N Winnisquam Dr ,Warwick,RI,02886,9300,4018847172
+344177,Palme,Robert,E,,945 Main St Apt 2C ,East Greenwich,RI,02818,3177,4018844876
+345760,Jaehnig,Patricia,B,,155 Lucas Rd ,East Greenwich,RI,02818,4516,4018852057
+347730,Sawyer,Christopher,B,,91 Old North Rd ,Kingston,RI,02881,1414,4018841451
+347731,Sawyer,Kira,F,,91 Old North Rd ,Kingston,RI,02881,1414,4018841451
+353107,Fine,Michael,D,,348 Gleaner Chapel Rd ,Scituate,RI,02857,1253,
+356239,Frenze,Amy,E,,350 Diamond Hill Rd ,Warwick,RI,02886,8503,4017393740
+357434,Davies,Janet,E,,108 Mason Ave ,Cranston,RI,02910,5427,4019417666
+358666,Elorza,Jorge,O,,35 Deborah St ,Providence,RI,02909,4507,4013839727
+359588,Lamagna,Barbara,Angelone,,15 Park Forest Rd ,Cranston,RI,02920,3606,4019421507
+363762,Autieri,Robert,S,,175 Budlong Rd ,Cranston,RI,02920,6443,4019426468
+363763,Autieri,Anna,M,,175 Budlong Rd ,Cranston,RI,02920,6443,4019426468
+366896,Litterick,Diana,D,,106 Roslyn Ave ,Cranston,RI,02910,4119,4019430949
+373883,Shire,David,F,,45 Lawnacre Dr ,Cranston,RI,02920,5903,4019442878
+382246,Izzi,David,L,,32 Robin Hood Rd ,Cranston,RI,02921,1910,4019469929
+402886,Hanchett,Sally,L,,6 Bliss Rd ,Newport,RI,02840,1837,4018499023
+408075,Herrarte,Sara,K,,300 Parkview Dr Apt 24 ,Pawtucket,RI,02861,3965,4017231714
+410404,Potts,Eunice,B,,1936 Old Louisquisset Pike ,Lincoln,RI,02865,4531,4013331906
+413012,Carter,Virginia,P,,619 Ministerial Rd Unit C ,South Kingstown,RI,02879,4851,4017896842
+416988,Long,Marguerite,R,,66 Elm St Apt 24 ,Westerly,RI,02891,2153,4015967820
+417221,Rossomando,Nina,P,,12 W Fairway Ave ,Westerly,RI,02891,3643,4013487054
+417222,Rossomando,Edward,F,,12 W Fairway Ave ,Westerly,RI,02891,3643,4013487054
+423375,Foster,Christine,J,,75 Mount Hope Ave ,Providence,RI,02906,1647,
+437773,Mark,Carolyn,,,99 Larch Rd ,East Greenwich,RI,02818,2205,
+449330,Pederson,Janna,Cole,,39 W Passage Dr ,Portsmouth,RI,02871,1359,
+452310,Mack,William,J,,27 Hope St ,Warren,RI,02885,2507,
+460735,Modiano,Rachelle,H,,33 Drowne St ,Cranston,RI,02905,1338,4019418405
+463838,Marcil,James,D,,11 Grand St ,Providence,RI,02907,3009,4012288776
+464030,Toegemann,Arthur,J,,40 Leander St Apt 117 ,Providence,RI,02909,5646,4012700594
+464233,Brown,Katherine,Houston,,63 Rockbridge Dr ,Little Compton,RI,02837,1944,4016352917
+464588,Bury,Joann,S,,295 Greenwood St ,Cranston,RI,02910,3604,4017852382
+465502,Rose,Charon,L,,300 Smithfield Rd # 557 ,North Providence,RI,02904,5127,4012283722
+476556,Finn,Linda,Dill,,351 Compton View Dr ,Middletown,RI,02842,7623,4018499272
+481308,Jackim,Penelope,,,35 Wood Lily Ln ,Tiverton,RI,02878,3230,4016244646
+486882,Fish,Diana,Staab,,3 Clyde St ,Pawtucket,RI,02860,5212,4017246359
+500243,Falcon,Jeanette,A,,8 Brownell St ,Warren,RI,02885,1527,4014343399
+506060,Gardner,Michaela,A,,40 Kinney Ave ,Narragansett,RI,02882,4210,4017839276
+509926,Dufresne,Marie,A,,87 Abram St ,Pawtucket,RI,02860,1102,4017234810
+510344,Rockwell,Christine,M,,57 Arnold Ave # 1 ,Cranston,RI,02905,3813,
+511926,Austin,Jane Kenney,,,26 Narragansett Bay Ave ,Warwick,RI,02889,6608,4017365181
+512166,McElroy,Lorie,A Jenkins,,19 Seabury Dr ,Westerly,RI,02891,3651,4015968155
+527094,Klotz,Daniel,J,,111 Tremont St # 2 ,Central Falls,RI,02863,1421,
+530878,Bernardo,Denise,M,,70 Fieldstone Ln ,Tiverton,RI,02878,2825,4016244392
+531658,Stiles Randak,Susan,,,1223 Saugatucket Rd Apt A102 ,South Kingstown,RI,02879,2100,4017892871
+537899,Smith,Paul,D,,21 Asselin St ,Warren,RI,02885,2638,4012450530
+541410,Dyszlewski,Gene,T,,579 Phenix Ave ,Cranston,RI,02921,1123,4013838088
+541411,Paccione-Dyszlewski,Margaret,R,,579 Phenix Ave ,Cranston,RI,02921,1123,
+542258,Rousseau,Julie,Kay,,33 Birchwood Dr ,South Kingstown,RI,02879,8114,4017830696
+551395,McMillan,William,J,,2 Tobie Ave ,Pawtucket,RI,02861,2912,4017254331
+572336,Klein,Andrew,F,,33 Fales Ave ,Barrington,RI,02806,4709,4012892384
+572502,McNamara,Heather,A,,9 Copper Kettle Ln ,Barrington,RI,02806,3220,4012892487
+573160,Weeden,Leslie,,,1 Tallwood Dr ,Barrington,RI,02806,2813,
+584959,Flitman,Mark,A,,51 Lindsay Ln ,Cranston,RI,02921,3561,4019460216
+589842,Bryant,Patricia,E,,15 Acre Ave ,Barrington,RI,02806,2701,
+606839,Godino,Gabrielle,E,,76 Regent Dr ,North Kingstown,RI,02852,3114,4017899536
+612370,Potts,Arthur,J,,11 Abalone Rd ,Saunderstown,RI,02874,2735,4012958547
+622301,Woodnick,Michael,,,10 Blodgett Ave ,Pawtucket,RI,02860,5620,6173256135
+625923,Araujo,Michael,J,,11 Gibbon Ct ,Providence,RI,02909,1901,4012890862
+625970,Bean-Hull,Marie,A,,395 Academy Ave ,Providence,RI,02908,4139,4012760106
+627075,Salooja,Sharda,,,176 6th St ,Providence,RI,02906,3729,4014215970
+628621,Sigal,Paula,E,,255 Promenade St Apt 212 ,Providence,RI,02908,5768,4013831703
+632238,Byrne,Leeann,,,199 Dexter St Apt 1 ,Providence,RI,02907,2494,
+636764,Ashley Bangoura,Kelly,J,,38 Abbott St ,Providence,RI,02906,1817,
+639777,McParland,Matthew,F,,77 Moorland Ave ,Cranston,RI,02905,3512,
+649715,Spaziante,Andrea,J,,4 Summit Ave ,South Kingstown,RI,02879,2210,
+651878,Francis,Katherine,M,,6 Friar Tuck Rd ,Warwick,RI,02886,8621,
+653755,Belair,Jerry,A,,22 Kelly St ,Warren,RI,02885,2406,
+663732,Santoro,Cheryle,A,,14 Robin Way ,Westerly,RI,02891,4909,
+680380,Sellers,Roger,L,,1377 Lafayette Rd ,North Kingstown,RI,02852,6428,4016672946
+680778,Lawlor,David,U,,7 Ferncrest Blvd ,North Providence,RI,02911,3312,4013538535
+698012,Mezera,Michael,Zachary,,62 Camp St # 2 ,Providence,RI,02906,1702,
+702609,Archambault,Brandon,R,,274 Read Ave ,Coventry,RI,02816,7544,
+706358,Oleary,Margaret,,,16 Progress St ,Pawtucket,RI,02860,6133,
+706829,Goree-Njie,Yassin,,,130 Curtis St ,Cranston,RI,02920,1839,4019440718
+712213,Lahoud,Mark,R,,24 Cleveland St ,South Kingstown,RI,02879,3306,4017838542
+716130,Perkins,Pamela,C,,153 High St Apt 4 ,Westerly,RI,02891,1782,4016374232
+772108,Stumpf,Dorothy,A,,25 Littlebrook Rd ,Westerly,RI,02891,3635,4013480997
+1040225,Corbett,Janice,M,,401 North Ln ,Bristol,RI,02809,1545,4013965708
+1083861,Ream,Suzanne,P,,1005 Main St Unit 1104 ,Pawtucket,RI,02860,7805,4014756158
+1091508,Henderson King,Mara,D,,34 King St ,East Greenwich,RI,02818,3826,4018841048
+1091511,Henderson King,Joseph,P,,849 Carrs Pond Rd ,East Greenwich,RI,02818,1008,4018841048
+1176288,Hodges,Paula,Jean,,149 Bath St # 1 ,Providence,RI,02908,4815,4017852418
+1240005,Jillison,Kathleen,G,,11 Willington Rd ,Pawtucket,RI,02861,2237,4017240179
+1255600,Shepherd,Kristina,R,,296 Rochambeau Ave ,Providence,RI,02906,3514,
+1277862,Keizer,Emily,A,,74 Sargent Ave ,Providence,RI,02906,3416,
+1278382,Salooja,Sunny,,,858 Hope St ,Providence,RI,02906,3743,4017511081
+1308846,Stanton,Emma,C,,108 Betsey Williams Dr ,Cranston,RI,02905,2755,4019417532
+1310812,Miller,Frederick,C,,200 Exchange St Unit 714 ,Providence,RI,02903,2623,4014210729
+1311835,Mitrovic,Vesna,F,,117 Burlington St ,Providence,RI,02906,3641,
+1326716,Bagley,Gary,W,,42 Netherlands Ave ,Cranston,RI,02905,2622,4014612964
+1326985,Wyman,Julia,C,,46 Nayatt Rd ,Barrington,RI,02806,3326,
+1331842,Kemp,Leslie,Kealhofer,,1183 Kingstown Rd # 2F ,South Kingstown,RI,02879,2438,4017890351
+1334896,Dunkelman,Kathryn,P,,12 Rhode Island Ave ,Providence,RI,02906,5506,4012746132
+1335881,Hammett,David,M,,76 Dale Ave ,Cranston,RI,02910,5509,
+1361673,Thibault,Jake,,,50 Ring St # 3 ,Providence,RI,02909,1330,
